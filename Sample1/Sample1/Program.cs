@@ -12,6 +12,7 @@ namespace Sample1
         {
             Console.WriteLine("Change1");
             Console.WriteLine("Change2");
+            Console.WriteLine("Change3");
         }
     }
 }
