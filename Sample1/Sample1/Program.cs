@@ -11,6 +11,7 @@ namespace Sample1
         static void Main(string[] args)
         {
             Console.WriteLine("Change1");
+            Console.WriteLine("Change2");
         }
     }
 }
