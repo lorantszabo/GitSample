@@ -8,5 +8,10 @@ namespace Sample1
 {
     class Calc
     {
+        public double Add(double a, double b)
+        {
+            return a + b;
+        }
+        
     }
 }
